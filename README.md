@@ -20,7 +20,3 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 - BrModelo
 
-## Parte 2
-
-<img src="modelagemAtualizada.png">
-
