@@ -55,7 +55,7 @@ aronf.ramalho@gmail.com
 
 https://www.linkedin.com/in/aronferreiraramalho/
 
-# Modelagem Banco de Dados - Hospital - Parte 3
+# Alimentando o Banco de Dados - Hospital - Parte 3
 Coninuação da Modelagem de um Banco de Dados de um Hospital, agora melhorando e detalhando o Script do Banco em linguagem SQL.
 
 ## Proposta:
