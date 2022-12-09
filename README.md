@@ -101,3 +101,26 @@ Os dados de tipo de quarto, convênio e especialidade são essenciais para a ope
 aronf.ramalho@gmail.com
 
 https://www.linkedin.com/in/aronferreiraramalho/
+
+# Atualizando o Banco de Dados - Hospital - Parte 4
+Coninuação do Script de um Banco de Dados de um Hospital, agora inserindo comandos para adicionar novas colunas e também atualizar valores nas tabelas.
+
+## Proposta:
+
+Mãos a Obra. 
+Pensando no banco que já foi criado para o Projeto do Hospital, realize algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão:
+
+Crie um script que adicione uma coluna “em_atividade” para os médicos, indicando se ele ainda está atuando no hospital ou não. 
+
+Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+
+
+## Ferramentas utilizadas:
+
+- MySQL Workbench
+
+## Contato:
+
+aronf.ramalho@gmail.com
+
+https://www.linkedin.com/in/aronferreiraramalho/
