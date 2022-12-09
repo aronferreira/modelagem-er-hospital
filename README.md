@@ -102,7 +102,7 @@ aronf.ramalho@gmail.com
 
 https://www.linkedin.com/in/aronferreiraramalho/
 
-# Atualizando o Banco de Dados - Hospital - Parte 4
+# Alterando o Banco de Dados - Hospital - Parte 4
 Coninuação do Script de um Banco de Dados de um Hospital, agora inserindo comandos para adicionar novas colunas e também atualizar valores nas tabelas.
 
 ## Proposta:
